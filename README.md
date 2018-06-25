@@ -50,4 +50,4 @@
 
 更多源码请参考demo: https://github.com/qqcc1388/TYRotaryDemo
 
-转载请标注来源：https://www.cnblogs.com/tinych/p/9121877.html
+转载请标注来源：https://www.cnblogs.com/qqcc1388/p/9121877.html
